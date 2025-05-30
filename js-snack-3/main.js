@@ -16,7 +16,9 @@
 //     sum = sum + element
 // }
 // console.log(sum);
-let repeat = 5
+
+
+let repeat = 10
 sum = null
 
 for(i = repeat; i >= 1; i--){
