@@ -5,4 +5,6 @@ if(first_number > second_number){
     alert(first_number)
 } else if(second_number > first_number){
     alert(second_number)
+}else{
+    alert("i numeri sono uguali")
 }
